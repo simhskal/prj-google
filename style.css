@@ -42,14 +42,14 @@
  	top: 0px;
  	right: 0px;
  	left: 0px;
- 	padding: 5px;
+ 	padding: 2px;
  }
  
  nav li{
     list-style-type:none;
     font-family: Arial,sans-serif;
  	font-weight: bold;
-    margin: 6px;
+    margin: 4px;
  	padding: 2px;
  	display: inline; 	
  }
